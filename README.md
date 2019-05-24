@@ -1,4 +1,6 @@
 
+[![Build Status](https://dev.azure.com/SharpSmartOffice/Marvel/_apis/build/status/jlumsla.pipelines-java?branchName=master)](https://dev.azure.com/SharpSmartOffice/Marvel/_build/latest?definitionId=3&branchName=master)
+
 # Contributing
 
 This project welcomes contributions and suggestions.  Most contributions require you to agree to a
